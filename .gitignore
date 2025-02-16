@@ -28,6 +28,7 @@ ENV/
 .venv
 env.bak/
 venv.bak/
+ai/
 
 # IDE specific files
 .idea/
@@ -42,6 +43,7 @@ venv.bak/
 .env.development.local
 .env.test.local
 .env.production.local
+.streamlit/secrets.toml
 
 # Logs
 *.log
